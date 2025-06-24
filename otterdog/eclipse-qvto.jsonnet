@@ -15,6 +15,7 @@ orgs.newOrg('modeling.mmt.qvt-oml', 'eclipse-qvto') {
       allow_update_branch: false,
       default_branch: "master",
       delete_branch_on_merge: false,
+      has_discussions: true,
       web_commit_signoff_required: false,
     },
   ],
